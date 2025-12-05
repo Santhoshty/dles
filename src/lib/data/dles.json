@@ -3905,5 +3905,12 @@
     "description": "Guess the video game from the zoomed-in screenshot.",
     "category": "Video Games",
     "id": 454
+  },
+    {
+    "name": "Power Scadle",
+    "url": "https://powerscadle.com/",
+    "description": "Decide which character is stronger from their appearance.",
+    "category": "Movies/TV",
+    "id":
   }
 ]
